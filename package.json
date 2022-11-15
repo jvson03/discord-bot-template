@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot-template",
+  "version": "0.0.1",
+  "description": "Discord bot template",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvson03/discord-bot-template.git"
+  },
+  "author": "Jvson03",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jvson03/discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/jvson03/discord-bot-template#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
