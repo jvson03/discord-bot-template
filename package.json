@@ -4,7 +4,9 @@
   "description": "Discord bot template",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "register": "node deploy-commands.js",
+    "start": "node bot.js",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
